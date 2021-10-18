@@ -30,7 +30,6 @@ Here's a walkthrough of the Tips Calculator App:
 
 ![](https://i.imgur.com/m3EkzXJ.gif)
 
-
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
