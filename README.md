@@ -28,7 +28,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of the Tips Calculator App:
 
+<<<<<<< HEAD
 ![](https://i.imgur.com/m3EkzXJ.gif)
+=======
+![useapp](https://user-images.githubusercontent.com/79735610/137653056-3e8c45c3-00af-4d6d-af31-4ad47512f427.gif)
+>>>>>>> 8704a4c1d894a1f3730d8b90448fda25691eb1fa
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
